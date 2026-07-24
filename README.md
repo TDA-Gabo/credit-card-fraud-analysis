@@ -22,7 +22,7 @@ alone.
     ├── requirements.txt
     ├── notebooks/
     │   ├── 01_eda.ipynb                    
-    │   ├── 02_sql_analysis.ipynb           (planned)
+    │   ├── 02_sql_analysis.ipynb           
     │   ├── 03_feature_engineering.ipynb    (planned)
     │   ├── 04_modeling.ipynb               (planned)
     │   └── 05_rules_and_monitoring.ipynb   (planned)
@@ -44,7 +44,7 @@ Download the dataset from Kaggle: [Credit Card Fraud Detection](https://www.kagg
 ## Roadmap
 
 - [x] Notebook 01: EDA — dataset structure, class imbalance, PCA-anonymized features
-- [ ] Notebook 02: SQL analysis — fraud patterns via SQL queries
+- [X] Notebook 02: SQL analysis — fraud patterns via SQL queries
 - [ ] Notebook 03: Feature engineering — temporal features, transaction aggregates
 - [ ] Notebook 04: Modeling — logistic baseline, XGBoost, SHAP interpretability
 - [ ] Notebook 05: Decision rules & monitoring — cost-based thresholds, drift monitoring
